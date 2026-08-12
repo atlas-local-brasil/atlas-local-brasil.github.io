@@ -1,0 +1,9 @@
+{
+  "name": "Atlas Local Brasil",
+  "short_name": "Atlas Local",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfdf9",
+  "theme_color": "#173126",
+  "description": "Referências de serviços, negócios e conteúdos organizados para pesquisa."
+}

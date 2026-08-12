@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: AhrefsSiteAudit
+Allow: /
+
+Sitemap: https://atlas-local-brasil.github.io/sitemap.xml
